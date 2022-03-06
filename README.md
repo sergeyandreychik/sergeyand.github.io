@@ -1,2 +1,2 @@
-# sergeyandreychik.github.io
+# sergeyand.github.io
 Landing page
